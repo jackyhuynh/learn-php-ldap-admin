@@ -1,1 +1,3 @@
-./data/
+data/
+.idea/
+learn_openldap_phpadmin.iml
